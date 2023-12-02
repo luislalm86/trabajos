@@ -1,0 +1,152 @@
+{
+ "celulas": [
+  {
+   "tipo_celda": "rebaja",
+   "identificación": "d6fe1403",
+   "metadatos": {},
+   "fuente": [
+    "# Herramientas y ecosistema de ciencia de datos......."
+   ]
+  },
+  {
+   "tipo_celda": "rebaja",
+   "identificación": "0d3f9acb",
+   "metadatos": {},
+   "fuente": [
+   "## Autor\n", "luis delesma"
+   ]
+  },
+  {
+   "tipo_celda": "rebaja",
+   "identificación": "64352d52",
+   "metadatos": {},
+   "fuente": [
+    "En este cuaderno se resumen las herramientas y el ecosistema de ciencia de datos.........."
+   ]
+  },
+  {
+   "tipo_celda": "rebaja",
+   "identificación": "a62ebf20",
+   "metadatos": {},
+   "fuente": [
+    "__Objetivos:__\n",
+    "* Idiomas populares para ciencia de datos\n",
+    "* Bibliotecas utilizadas por los científicos de datos\n",
+    "* Evaluando expresiones aritméticas en Python\n"
+   ]
+  },
+  {
+   "tipo_celda": "rebaja",
+   "identificación": "7eb12e1b",
+   "metadatos": {},
+   "fuente": [
+    "Algunos de los lenguajes populares que utilizan los científicos de datos son:\n",
+    "\norte",
+    "1. Pitón\n",
+    "2. R\n",
+    "3. SQL"
+   ]
+  },
+  {
+   "tipo_celda": "rebaja",
+   "identificación": "44f3be03",
+   "metadatos": {},
+   "fuente": [
+    "Algunas de las bibliotecas utilizadas por los científicos de datos incluyen:\n",
+    "\norte",
+    "1. pandas\n",
+    "2. numeroso\n",
+    "3. matplotlib\n",
+    "4. Aprendizaje de Scikit\n"
+   ]
+  },
+  {
+   "tipo_celda": "rebaja",
+   "identificación": "a150c221",
+   "metadatos": {},
+   "fuente": [
+    "| Herramientas de ciencia de datos |\n",
+    "|--------------------|\norte",
+    "| JupyterLab |\n",
+    "| Pycharm |\n",
+    "| Código VS |\n",
+    "| RStudio |"
+   ]
+  },
+  {
+   "tipo_celda": "rebaja",
+   "identificación": "4cd32b4c",
+   "metadatos": {},
+   "fuente": [
+    "### A continuación se muestran algunos ejemplos de evaluación de expresiones aritméticas en Python...................."
+   ]
+  },
+  {
+   "tipo_celda": "código",
+   "recuento_ejecución": 5,
+   "identificación": "ba6d3841",
+   "metadatos": {},
+   "salidas": [
+    {
+     "datos": {
+      "Texto sin formato": [
+       "17"
+      ]
+     },
+     "recuento_ejecución": 5,
+     "metadatos": {},
+     "tipo_salida": "resultado_ejecutado"
+    }
+   ],
+   "fuente": [
+    "# Esta es una expresión aritmética simple para multiplicar y luego sumar números enteros\n",
+    "(3*4)+5"
+   ]
+  },
+  {
+   "tipo_celda": "código",
+   "recuento_ejecución": 6,
+   "identificación": "0985a029",
+   "metadatos": {},
+   "salidas": [
+    {
+     "nombre": "salida estándar",
+     "tipo_salida": "transmisión",
+     "texto": [
+      "horas: 3.3333333333333335\n"
+     ]
+    }
+   ],
+   "fuente": [
+    "# Esto convierte 200 minutos en horas buceando 60\n",
+    "horas = 200/60\n",
+    "imprimir(\"horas: \",horas)"
+   ]
+  },
+  {
+   "tipo_celda": "código",
+   "recuento_ejecución": nulo,
+   "identificación": "caae263f",
+   "metadatos": {},
+   "salidas": [],
+   "fuente": []
+  }
+ ],
+ "metadatos": {
+  "especificación del núcleo": {
+   "display_name": "Python 3 (ipykernel)",
+   "idioma": "pitón",
+   "nombre": "pitón3"
+  },
+  "informacion_idioma": {
+   "modo_espejo_código": {
+    "nombre": "ipython",
+    "versión": 3
+   },
+   "extensión_archivo": ".py",
+   "mimetype": "texto/x-python",
+   "nombre": "pitón",
+   "nbconvert_exporter": "pitón",
+   "pygments_lexer": "ipython3",
+   "versión": "3.11.5"
+  }
